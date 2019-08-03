@@ -1,0 +1,8 @@
+# Project exclude paths
+/gmall-common/target/
+/gmall-exercise/target/
+/gmall-mock/target/
+/gmall-offline/target/
+/gmall-realtime/target/
+/gmall-realtime-Flink/target/
+/target/
